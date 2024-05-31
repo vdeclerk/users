@@ -2,7 +2,7 @@ Para probar la aplicación luego de clonarla ejecutarla con
 ```bash
 ./mvnw spring-boot:run
 ```
-Luego de esto se podrá acceder a la página de swagger [aquí](localhost:8080/swagger-ui/index.html)
+Luego de esto se podrá acceder a la página de swagger [aquí](http://localhost:8080/swagger-ui/index.html)
 
 Desde allí se puede ver la documentación y también probar la API.
 
